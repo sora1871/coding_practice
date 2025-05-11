@@ -56,7 +56,7 @@
 
 ## 👫 2ポインタ / Two Pointers
 
-- [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [ ] [Remove Element](https://leetcode.com/problems/remove-element/)
 - [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
