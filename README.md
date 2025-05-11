@@ -65,14 +65,14 @@
 
 ## 🪟 スライディングウィンドウ / Sliding Window
 
-- [ ] [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+- [x] [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ※Medium相当
 
 ---
 
 ## 🔢 数学 / ロジック
 
-- [ ] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+- [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 - [ ] [Power of Two](https://leetcode.com/problems/power-of-two/)
 - [ ] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
