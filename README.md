@@ -30,7 +30,7 @@
 
 ## 🔠 文字列 / String
 
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [ ] [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [ ] [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
@@ -39,7 +39,7 @@
 
 ## 🗃️ ハッシュマップ / Set / Dict
 
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
