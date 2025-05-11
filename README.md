@@ -80,7 +80,7 @@
 
 ## 🚀 次のステップに向けて（DP・探索）
 
-Easy問題クリア後は、以下の分野でMedium問題に挑戦を始めましょう：
+Easy問題クリア後は、以下の分野でMedium問題に挑戦を始めます：
 
 - DP（Climbing Stairs, House Robber など）
 - DFS/BFS（Flood Fill, Number of Islands など）
