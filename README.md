@@ -1,46 +1,86 @@
 #  Coding Practice Archive（コーディング練習アーカイブ）
 
 このリポジトリは、LeetCode を中心としたコーディング問題の解答・メモをまとめたものです。  
-主に **ソフトウェアエンジニア** や **MLOpsエンジニア** を目指す人向けに、**アルゴリズム思考を鍛えること**を目的としています。
-
 ---
 
 ##  構成
 
 - `problems/`：問題ごとにフォルダを作成し、1つ以上の解法 `.py` ファイルと学習メモ `notes.md` を置きます。
-- `templates/`：問題メモやコードのテンプレートを格納しています。
+
 
 ---
 
-##  使い方
+# ✅ LeetCode Easy 問題チェックリスト（分野別）
 
-1. リポジトリをクローンします
-2. 問題を解きます
-3. `problems/` フォルダ内に、以下のような構成で問題ごとのフォルダを追加します：
-   - 複数の `.py` ファイル（例：`brute_force.py`, `hashmap_solution.py`）
-   - 学習メモ `notes.md`（テンプレートを使って記述）
+> 各分野の典型問題を解いて基礎力を固めることを目的とした進捗チェック表。  
+> 全問クリアし、githubにアップすることを目標とします。。
 
 ---
 
-#  Coding Practice Archive (English Version)
+## 🔢 配列 / Array
 
-This repository contains coding practice problems and solutions (primarily from LeetCode), focused on building algorithmic thinking for software engineering and MLOps positions.
-
----
-
-##  Structure
-
-- `problems/`: Each problem has its own folder with one or more solution `.py` files and a `notes.md` file.
-- `templates/`: Templates for writing consistent notes and solution files.
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) ※Kadane’s法（DP要素あり）
 
 ---
 
-##  How to Use
+## 🔠 文字列 / String
 
-1. Clone the repository
-2. Solve a problem
-3. Create a new folder under `problems/` with the following:
-   - One or more `.py` solution files (e.g. `brute_force.py`, `hashmap_solution.py`)
-   - A `notes.md` file following the provided template
+- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [ ] [Reverse String](https://leetcode.com/problems/reverse-string/)
+- [ ] [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+- [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
 ---
+
+## 🗃️ ハッシュマップ / Set / Dict
+
+- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+
+---
+
+## 📚 スタック / Stack
+
+- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
+- [ ] [Baseball Game](https://leetcode.com/problems/baseball-game/)
+
+---
+
+## 👫 2ポインタ / Two Pointers
+
+- [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [ ] [Remove Element](https://leetcode.com/problems/remove-element/)
+- [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+
+---
+
+## 🪟 スライディングウィンドウ / Sliding Window
+
+- [ ] [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ※Medium相当
+
+---
+
+## 🔢 数学 / ロジック
+
+- [ ] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+- [ ] [Power of Two](https://leetcode.com/problems/power-of-two/)
+- [ ] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+
+---
+
+## 🚀 次のステップに向けて（DP・探索）
+
+Easy問題クリア後は、以下の分野でMedium問題に挑戦を始めましょう：
+
+- DP（Climbing Stairs, House Robber など）
+- DFS/BFS（Flood Fill, Number of Islands など）
