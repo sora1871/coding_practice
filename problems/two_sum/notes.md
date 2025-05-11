@@ -30,15 +30,14 @@
 
 コード：
 
-python
-コピーする
-編集する
+```python
 num_map = {}
 for i, num in enumerate(nums):
     comp = target - num
     if comp in num_map:
         return [num_map[comp], i]
     num_map[num] = i
+```
 学び：
 
 辞書（ハッシュ）を使えば検索は O(1)
@@ -53,5 +52,3 @@ for i, num in enumerate(nums):
 for i in nums はインデックスじゃなく「値」を取ってる点に注意
 
 dict に補数を保存 → 一瞬で探索できるという考え方は「型」として覚えておく
-
-この問題の考え方は他の問題にも流用できる（Two Sum II, Three Sumなど）
