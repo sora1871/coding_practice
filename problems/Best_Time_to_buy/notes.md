@@ -34,9 +34,3 @@
 
 ---
 
-## 類題（今後の練習候補）
-
-- [ ] Best Time to Buy and Sell Stock II（何度でも取引OK）
-- [ ] Maximum Subarray（Kadane's algorithm）
-
----
