@@ -7,13 +7,13 @@
 
 ## ✅ 解法バリエーション
 
-### ❌ v1_range_misuse.py.py
+### ❌ v1_range_misuse.py
 - `range(1, len(nums) - (k + 1))` のようにループの終点を誤って指定
 - Pythonの `range()` は終点を含まないため、ウィンドウを1つ見逃してループが0回になる
 - `sum(nums[0:k])` の使い方や `current_sum - ... + ...` のロジック自体は正しい
 - 実行されないため、`max_sum` は初期値のまま → 誤答
 
-### ✅ v2_slice_bruteforce.py.py
+### ✅ v2_slice_bruteforce.py
 - Pythonのスライス `nums[i:i+k]` を使い、各ウィンドウを1つずつ sum() で合計
 - コードは非常に読みやすいが、毎回 `k` 個の要素を合計するため O(n * k)
 - スライディングウィンドウのように前の合計を活かさないため非効率
