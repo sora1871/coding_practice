@@ -25,10 +25,18 @@ LeetCode #344 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 
 ---
 
-### ✅ v2_optimal_two_pointer.py  
-- Two Pointer（`left`, `right`）を使い、左右から文字を交換して反転  
-- Pythonの `s[left], s[right] = s[right], s[left]` は内部で一時的にタプルを作るが、in-place操作として扱われる  
-- O(n) 時間・O(1) 空間の最適解
+### ✅ v2_for_loop_swap.py  
+- `for i in range(len(s))` を使いつつ、`j` を明示的に減らして2ポインタっぽく処理  
+- `if i < j:` によって不要な後半のループでswapを防いでいる  
+- 動作は正しいが、半分以降もループが続く点で若干の非効率
+
+---
+
+### ✅ v3_optimal_two_pointer.py  
+- `while left < right:` を使った純粋なTwo Pointer法  
+- `s[left], s[right] = s[right], s[left]` によりin-placeで反転  
+- O(n) 時間・O(1) 空間の最適解  
+- 最もPythonicかつ実務でも好まれるスタイル
 
 ---
 
@@ -36,4 +44,5 @@ LeetCode #344 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 
 - Pythonの多重代入は一時タプルを使って安全にswapでき、in-placeとして扱われる  
 - `s[::-1]` のような新しいリストを作る操作は in-place 要件を満たさない  
-- `while left < right:` のパターンは配列・文字列系の問題で頻出。Two Pointerの基本パターンとして覚えるべき
+- 2ポインタ法（`left`と`right`で進む）は配列・文字列問題での基本パターン  
+- `for`ループでも工夫次第で同様の処理は可能だが、`while`の方が直感的で最適な場合も多い
