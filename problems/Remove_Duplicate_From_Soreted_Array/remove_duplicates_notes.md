@@ -1,11 +1,11 @@
 # Remove Duplicates from Sorted Array
 
-## 🔗 問題リンク
+##  問題リンク
 [LeetCode #26 - Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ---
 
-## 🧠 問題概要
+##  問題概要
 
 昇順にソートされた配列 `nums` から、**重複を in-place で削除**し、**重複なしの要素数 `k` を返す**。  
 最初の `k` 要素にユニークな値を前方に詰め、残りの要素は無視される。
