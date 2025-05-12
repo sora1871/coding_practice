@@ -31,7 +31,7 @@
 ## 🔠 文字列 / String
 
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-- [ ] [Reverse String](https://leetcode.com/problems/reverse-string/)
+- [x] [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [ ] [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
