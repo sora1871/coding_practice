@@ -21,7 +21,7 @@
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) ※Kadane’s法（DP要素あり）
