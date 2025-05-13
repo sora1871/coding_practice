@@ -40,7 +40,7 @@
 ## 🗃️ ハッシュマップ / Set / Dict
 
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
