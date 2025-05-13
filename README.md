@@ -33,7 +33,7 @@
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [x] [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [x] [Find_the_Index_of_the_First_ocuurrence](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
-- [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
 ---
 
