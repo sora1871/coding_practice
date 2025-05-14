@@ -50,7 +50,7 @@
 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [x] [Min Stack](https://leetcode.com/problems/min-stack/)
-- [ ] [Baseball Game](https://leetcode.com/problems/baseball-game/)
+- [x] [Baseball Game](https://leetcode.com/problems/baseball-game/)
 
 ---
 
