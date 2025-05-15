@@ -59,14 +59,14 @@
 - [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [x] [Remove Element](https://leetcode.com/problems/remove-element/)
-- [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [x] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 ---
 
 ## 🪟 スライディングウィンドウ / Sliding Window
 
 - [x] [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ※Medium相当
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ※Medium相当
 
 ---
 
