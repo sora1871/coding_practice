@@ -66,7 +66,7 @@
 ## 🪟 スライディングウィンドウ / Sliding Window
 
 - [x] [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ※Medium相当
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ※Medium相当
 
 ---
 
