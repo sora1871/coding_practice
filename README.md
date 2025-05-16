@@ -77,10 +77,49 @@
 - [x] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
 ---
+---
 
-## 🚀 次のステップに向けて（DP・探索）
+# 🚀 LeetCode Medium 問題チェックリスト（カテゴリ別おすすめ）
 
-Easy問題クリア後は、以下の分野でMedium問題に挑戦を始めます：
+> Easyレベルの基礎を固めた後に挑戦すべき、実力アップに直結するMedium問題リスト。  
+> 分野ごとに段階的に難易度が上がるように並べています。
 
-- DP（Climbing Stairs, House Robber など）
-- DFS/BFS（Flood Fill, Number of Islands など）
+---
+
+## 👫 Two Pointers / Sliding Window
+
+- [ ] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+
+---
+
+## 🗃️ ハッシュマップ / Set
+
+- [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+---
+
+## 📚 スタック / Queue / 文字列
+
+- [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+- [ ] [Simplify Path](https://leetcode.com/problems/simplify-path/)
+
+---
+
+## 🧠 動的計画法（DP）入門
+
+- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
+- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
+
+---
+
+## 🌊 グラフ探索 / DFS・BFS
+
+- [ ] [Flood Fill](https://leetcode.com/problems/flood-fill/)
+- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+
