@@ -73,8 +73,8 @@
 ## 🔢 数学 / ロジック
 
 - [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
-- [ ] [Power of Two](https://leetcode.com/problems/power-of-two/)
-- [ ] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+- [x] [Power of Two](https://leetcode.com/problems/power-of-two/)
+- [x] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
 ---
 
