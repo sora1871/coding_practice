@@ -113,7 +113,7 @@
 ## 🧠 動的計画法（DP）入門
 
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
+- [x] [House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 
 ---
