@@ -114,7 +114,7 @@
 
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [x] [House Robber](https://leetcode.com/problems/house-robber/)
-- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [x] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 
 ---
 
